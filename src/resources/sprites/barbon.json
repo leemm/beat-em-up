@@ -1,0 +1,272 @@
+{
+    "meta": {
+        "image": "barbon.png",
+        "size": {
+            "w": 1820,
+            "h": 140
+        },
+        "scale": "1"
+    },
+    "frames": {
+        "barbon01.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "barbon02.png": {
+            "frame": {
+                "x": 140,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 140,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "barbon03.png": {
+            "frame": {
+                "x": 280,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 280,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "barbon04.png": {
+            "frame": {
+                "x": 420,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 420,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "barbon05.png": {
+            "frame": {
+                "x": 560,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 560,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "barbon06.png": {
+            "frame": {
+                "x": 700,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 700,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "barbon07.png": {
+            "frame": {
+                "x": 840,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 840,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "barbon08.png": {
+            "frame": {
+                "x": 980,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 980,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "barbon09.png": {
+            "frame": {
+                "x": 1120,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 1120,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "barbon10.png": {
+            "frame": {
+                "x": 1260,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 1260,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "barbon11.png": {
+            "frame": {
+                "x": 1400,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 1400,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "barbon12.png": {
+            "frame": {
+                "x": 1540,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 1540,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "barbon13.png": {
+            "frame": {
+                "x": 1680,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 1680,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        }
+    }
+}

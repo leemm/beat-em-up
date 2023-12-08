@@ -1,0 +1,332 @@
+{
+    "meta": {
+        "image": "axel.png",
+        "size": {
+            "w": 2240,
+            "h": 140
+        },
+        "scale": "1"
+    },
+    "frames": {
+        "axel01.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "axel02.png": {
+            "frame": {
+                "x": 140,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 140,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "axel03.png": {
+            "frame": {
+                "x": 280,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 280,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "axel04.png": {
+            "frame": {
+                "x": 420,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 420,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "axel05.png": {
+            "frame": {
+                "x": 560,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 560,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "axel06.png": {
+            "frame": {
+                "x": 700,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 700,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "axel07.png": {
+            "frame": {
+                "x": 840,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 840,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "axel08.png": {
+            "frame": {
+                "x": 980,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 980,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "axel09.png": {
+            "frame": {
+                "x": 1120,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 1120,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "axel10.png": {
+            "frame": {
+                "x": 1260,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 1260,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "axel11.png": {
+            "frame": {
+                "x": 1400,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 1400,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "axel12.png": {
+            "frame": {
+                "x": 1540,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 1540,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "axel13.png": {
+            "frame": {
+                "x": 1680,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 1680,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "axel14.png": {
+            "frame": {
+                "x": 1820,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 1820,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "axel15.png": {
+            "frame": {
+                "x": 1960,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 1960,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        },
+        "axel16.png": {
+            "frame": {
+                "x": 2100,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 2100,
+                "y": 0,
+                "w": 140,
+                "h": 140
+            },
+            "sourceSize": {
+                "w": 140,
+                "h": 140
+            }
+        }
+    }
+}
