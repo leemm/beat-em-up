@@ -11,7 +11,7 @@ window.addEventListener('keyup', (e) => gameLoop.onKeyUp(e), false);
 const start = async () => {
     const app = new PIXI.Application({
         width: 800,
-        height: 600,
+        height: 400,
         backgroundColor: 0x1099bb,
         resolution: window.devicePixelRatio || 1,
     });
